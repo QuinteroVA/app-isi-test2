@@ -1,0 +1,8 @@
+#claves de acceso
+credenciales.txt
+#carpeta de dependencias
+dependencias/
+#archivos
+config
+#por extensión
+*.jpg
